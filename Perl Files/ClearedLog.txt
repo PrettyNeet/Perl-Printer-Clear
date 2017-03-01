@@ -1,0 +1,18 @@
+Apr 24 2016
+
+JOBS CLEARED FROM PRINTER Perlprojectprinter:
+Perlprojectprinter-566 USER IS:johnh
+Perlprojectprinter-567 USER IS:johnh
+Perlprojectprinter-565 USER IS:root
+Perlprojectprinter-564 USER IS:root
+
+****************************************************************
+Apr 24 2016
+
+JOBS CLEARED FROM PRINTER Perlprojectprinter:
+Perlprojectprinter-571 USER IS:johnh
+Perlprojectprinter-570 USER IS:johnh
+Perlprojectprinter-568 USER IS:root
+Perlprojectprinter-569 USER IS:root
+
+****************************************************************
